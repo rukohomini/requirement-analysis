@@ -65,3 +65,31 @@ A thorough requirement analysis ensures that the system is designed to meet func
 In essence, requirement analysis is the **foundation of successful software development**. Without it, projects risk failure due to unclear goals, scope creep, and poor communication.
 
 
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves a series of structured activities that help teams understand what needs to be built, why it’s needed, and how it should function.  
+Below are the five key activities involved:
+
+- **1. Requirements Gathering**  
+  This is the process of collecting information from various stakeholders such as clients, users, and business managers. The goal is to understand their needs, expectations, and the problems the software should solve.
+
+- **2. Requirements Elicitation**  
+  In this stage, techniques such as interviews, surveys, brainstorming sessions, workshops, and observation are used to draw out deeper insights from stakeholders.  
+  Elicitation ensures hidden or unclear requirements are uncovered early.
+
+- **3. Requirements Documentation**  
+  After gathering and eliciting requirements, they are clearly documented in a structured format (e.g., Software Requirements Specification — SRS).  
+  This document serves as a reference for the entire project team throughout development.
+
+- **4. Requirements Analysis and Modeling**  
+  Here, the collected requirements are analyzed to check for completeness, consistency, and feasibility.  
+  Models such as flowcharts, use-case diagrams, and data models may be created to visualize system behavior and interactions.
+
+- **5. Requirements Validation**  
+  This activity ensures that the documented requirements accurately represent stakeholders’ needs.  
+  It involves reviews, walkthroughs, and feedback sessions to confirm correctness and feasibility before development begins.
+
+---
+
+### Summary
+These five activities form the **core of requirement analysis**, ensuring that the project is well-understood, properly planned, and aligned with user and business objectives.
