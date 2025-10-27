@@ -93,3 +93,47 @@ Below are the five key activities involved:
 
 ### Summary
 These five activities form the **core of requirement analysis**, ensuring that the project is well-understood, properly planned, and aligned with user and business objectives.
+
+
+
+
+## Types of Requirements
+
+In software engineering, requirements are broadly categorized into **Functional** and **Non-Functional Requirements**.  
+Both types are essential for building a complete and reliable system.
+
+### 1. Functional Requirements
+
+**Definition:**  
+Functional requirements describe *what the system should do*.  
+They define the specific behaviors, features, and functions of the software — how the system should respond to inputs and produce outputs.
+
+**Examples for the Booking Management Project:**
+- The system should allow users to **create, view, and cancel bookings**.  
+- The system should enable administrators to **approve or reject booking requests**.  
+- Users should receive **email or SMS notifications** upon successful booking or cancellation.  
+- The system should allow users to **search for available slots** based on date and time.  
+- The system should provide a **login and authentication** feature for both users and administrators.
+
+---
+
+### 2. Non-Functional Requirements
+
+**Definition:**  
+Non-functional requirements describe *how the system performs its functions*.  
+They focus on quality attributes like performance, usability, security, and reliability rather than specific behaviors.
+
+**Examples for the Booking Management Project:**
+- The system should **load the booking page within 3 seconds** under normal conditions.  
+- The application should be **available 99.9% of the time** (high reliability).  
+- User data must be **encrypted** to ensure privacy and security.  
+- The interface should be **responsive and accessible** on both mobile and desktop devices.  
+- The system should support **up to 10,000 concurrent users** without performance degradation.
+
+---
+
+### Summary
+Functional requirements define **what** the system does,  
+while Non-functional requirements define **how well** it does it.  
+Both are vital to ensure that the Booking Management Project is effective, efficient, and user-friendly.
+
