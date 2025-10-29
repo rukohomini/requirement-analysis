@@ -130,17 +130,13 @@ They focus on quality attributes like performance, usability, security, and reli
 - The interface should be **responsive and accessible** on both mobile and desktop devices.  
 - The system should support **up to 10,000 concurrent users** without performance degradation.
 
----
+---<img width="1536" height="1024" alt="Booking Management System Use Case Diagram (1)" src="https://github.com/user-attachments/assets/1b382fcd-56e8-4f13-8fb6-9f19468d5b5f" />
+
 
 ### Summary
 Functional requirements define **what** the system does,  
 while Non-functional requirements define **how well** it does it.  
 Both are vital to ensure that the Booking Management Project is effective, efficient, and user-friendly.
 
-
-
-## 📊 Use Case Diagram
-
-![Booking Management System](https://github.com/<your-username>/<your-repo>/blob/main/A_use_case_diagram_in_the_image_illustrates_a_Book.png)
 
 
