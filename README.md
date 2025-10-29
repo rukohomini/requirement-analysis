@@ -138,7 +138,9 @@ Both are vital to ensure that the Booking Management Project is effective, effic
 
 ### Use Case Diagram
 
-<img width="1536" height="1024" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/e985e87a-271c-41ed-8153-4570953b5117" />
+## Use Case Diagram
+
+![Booking Management System](als-booking-uc.png)
 
 
 
