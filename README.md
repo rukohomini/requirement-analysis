@@ -137,3 +137,10 @@ Functional requirements define **what** the system does,
 while Non-functional requirements define **how well** it does it.  
 Both are vital to ensure that the Booking Management Project is effective, efficient, and user-friendly.
 
+
+
+## 📊 Use Case Diagram
+
+![Booking Management System](https://github.com/<your-username>/<your-repo>/blob/main/A_use_case_diagram_in_the_image_illustrates_a_Book.png)
+
+
