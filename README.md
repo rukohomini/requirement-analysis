@@ -138,9 +138,6 @@ Both are vital to ensure that the Booking Management Project is effective, effic
 
 ### Use Case Diagram
 
-## Use Case Diagram
-
-![Booking Management System](als-booking-uc.png)
 
 
 
