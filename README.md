@@ -138,8 +138,7 @@ Both are vital to ensure that the Booking Management Project is effective, effic
 
 
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5a1bb7de-f300-4382-8906-0c48b2bf036d" />
-
+ 
 
 
 
