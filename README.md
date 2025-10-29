@@ -136,15 +136,38 @@ Functional requirements define **what** the system does,
 while Non-functional requirements define **how well** it does it.  
 Both are vital to ensure that the Booking Management Project is effective, efficient, and user-friendly.
 
+
 ## Use Case Diagram
 
-The diagram below illustrates the main actors and interactions in the Booking Management System.
+A **use case diagram** is a visual representation of the interactions between users (actors) and a system.  
+It helps developers and stakeholders understand how the system will behave and what functionalities users can perform.
 
-![Booking Management System](alx-booking-uc.png)
+### Benefits of Use Case Diagrams
+- **Clarity:** Helps communicate system behavior in a simple, visual way.  
+- **Requirement Validation:** Ensures that all user interactions are captured and agreed upon before development.  
+- **System Boundaries:** Shows what is inside and outside the system’s control.
 
-Added Use Case Diagram secton
+### Booking Management System – Use Case Diagram
+The diagram below illustrates the main actors and their interactions with the booking management system.
+
+**Actors:**
+- Customer  
+- Admin  
+
+**Use Cases:**
+- Register and log in  
+- Make a booking  
+- Modify or cancel booking  
+- View booking details  
+- Manage system data (Admin)
+
+### Diagram
+Below is the use case diagram created using Draw.io:
+
+![Booking Management System Use Case](alx-booking-uc.png)
 
 
+Added Use Case Diagram section and linked image
 
  
 
