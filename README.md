@@ -137,7 +137,7 @@ while Non-functional requirements define **how well** it does it.
 Both are vital to ensure that the Booking Management Project is effective, efficient, and user-friendly.
 
 
----<img width="1536" height="1024" alt="Booking Management System Use Case Diagram (1)" src="https://github.com/user-attachments/assets/1b382fcd-56e8-4f13-8fb6-9f19468d5b5f" />
+
 
 
 
