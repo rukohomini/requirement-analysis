@@ -171,6 +171,29 @@ Added Use Case Diagram section and linked image
 
  
 
+## Acceptance Criteria
+
+**Acceptance criteria** are specific, measurable conditions that a software product must satisfy to be accepted by the client, end user, or stakeholders. They define what success looks like for a particular feature or user story.
+
+### Importance of Acceptance Criteria
+- **Clarity:** They ensure both the development team and stakeholders clearly understand what is expected from a feature.  
+- **Quality Assurance:** Acceptance criteria serve as the basis for testing — confirming that the product behaves as intended.  
+- **Scope Control:** They help prevent scope creep by defining the boundaries of a feature.  
+- **Transparency:** They provide a shared understanding of when a task is considered “done.”
+
+### Example: Checkout Feature (Booking Management System)
+
+**Feature:** Checkout and Payment Processing
+
+**Acceptance Criteria:**
+1. The user must be able to view a summary of their booking before proceeding to payment.  
+2. The system must validate all booking details (date, price, and availability) before checkout.  
+3. The user should be able to select a payment method (e.g., card or wallet).  
+4. The system should display a confirmation message once the payment is successfully processed.  
+5. If payment fails, the system must show an error message and allow the user to retry.  
+6. A booking confirmation email should be sent automatically after a successful payment.
+
+These criteria help ensure that the **Checkout feature** functions correctly and meets user expectations.
 
 
 
