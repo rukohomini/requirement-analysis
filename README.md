@@ -137,7 +137,8 @@ while Non-functional requirements define **how well** it does it.
 Both are vital to ensure that the Booking Management Project is effective, efficient, and user-friendly.
 
 ### Use Case Diagram
-alx-booking-uc..png
+
+<img width="1536" height="1024" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/e985e87a-271c-41ed-8153-4570953b5117" />
 
 
 
